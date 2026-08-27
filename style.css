@@ -15,13 +15,13 @@
 
     /*Make the h1 heading bigger with a bold font*/
 h1{
-	font-size: 2em;
+	font-size: 2em; 
 	font-weight: bold;
   margin: 0 0 0.5rem;
 }
 /*Make the h2 heading larger than other headings*/
 h2{
-	font-size: 1.5em;
+	font-size: 1.5em; 
 	font-weight: bold;
 }
 
